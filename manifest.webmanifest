@@ -1,0 +1,17 @@
+{
+  "name": "PWA na Programowanie Systemów Mobilnych",
+  "short_name": "PWA_PSM",
+  "description": "Github Page jako hosting dla Progressive Web App",
+  "scope": "/PWA_PSM/",
+  "start_url": "/PWA_PSM/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/PWA_PSM/img/icon.png",
+        "type": "image/png",
+        "sizes": "700x700"
+      }
+  ]
+}
