@@ -20,3 +20,9 @@ p {
 a {
     color: #369;
 }
+
+.button {
+  padding: 12px;
+  font-size: 2.5rem;
+  border-radius: 4px;
+}
