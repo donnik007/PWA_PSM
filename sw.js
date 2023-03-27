@@ -1,6 +1,6 @@
 var GHPATH = '/PWA_PSM';
 var APP_PREFIX = 'PWA_PSM';
-var VERSION = '_05';
+var VERSION = '_03';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
